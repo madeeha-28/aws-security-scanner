@@ -29,11 +29,11 @@ I created three deliberate misconfigurations in my own lab account: a bucket wit
 
 **Before: 5 findings**
 
-![Before scan](screenshots/before_report.png)
+![Before scan](before_report.png)
 
 **After: 1 finding** (the remaining item is my `scanner` user, which has no MFA)
 
-![After scan](screenshots/after_report.png)
+![After scan](after_report.png)
 
 The test resources were deleted after the demo.
 
