@@ -45,7 +45,7 @@ The test resources were deleted after the demo.
 
 2. **Clone the repo and install boto3:**
    ```powershell
-   git clone https://github.com/YOUR-USERNAME/aws-security-scanner.git
+   git clone https://github.com/madessxo/aws-security-scanner.git
    cd aws-security-scanner
    python -m venv venv
    venv\Scripts\Activate.ps1
